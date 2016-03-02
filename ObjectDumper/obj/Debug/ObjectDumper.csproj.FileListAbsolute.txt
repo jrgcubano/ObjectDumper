@@ -1,4 +1,0 @@
-C:\Users\j.rodriguez.WINHOTELSOLUTIO\Desktop\jwork\NET\RetosC#\retos-master\Reto 3 Solucion\ObjectDumper\bin\Debug\ObjectDumper.dll
-C:\Users\j.rodriguez.WINHOTELSOLUTIO\Desktop\jwork\NET\RetosC#\retos-master\Reto 3 Solucion\ObjectDumper\bin\Debug\ObjectDumper.pdb
-C:\Users\j.rodriguez.WINHOTELSOLUTIO\Desktop\jwork\NET\RetosC#\retos-master\Reto 3 Solucion\ObjectDumper\obj\Debug\ObjectDumper.dll
-C:\Users\j.rodriguez.WINHOTELSOLUTIO\Desktop\jwork\NET\RetosC#\retos-master\Reto 3 Solucion\ObjectDumper\obj\Debug\ObjectDumper.pdb
